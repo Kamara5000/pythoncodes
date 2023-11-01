@@ -16,10 +16,15 @@ print(driver.current_url)  #get current url
 #print(driver.page_source)  #capture page source
 
 #conditoional commands
-#is_displayed()
-#is_enabled()
-#is_selected()
-
+#is_displayed() -to check if an element is displayed
+#is_enabled() -to check if an element is enabled
+#is_selected() -to check if an element is selected
+#element.text  - to get the text of an element either text box or input boxs
+#element.text only return innerText
+#get_attribute -  return text of the attribute of the elemets e.g element,get_attribute('value') return the value in the element
+#element.get_attribute('name') gets the text of the name in the element attributes
+#element.clear - to clear input box
+#
 #navigation command
 
 
