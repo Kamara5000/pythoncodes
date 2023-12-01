@@ -28,7 +28,7 @@ except TimeoutException:
 
 #driver = webdriver.Chrome(executable_path = "C:/Users/ibrah/Desktop/webdriversfolder/chromedriver.exe")
 
-#driver = webdriver.Chrome("C:/Users/ibrah\Desktop/webdriversfolder/chromedriver-win64.exe")
+#driver = webdriver.Chrome("C:/Users/ibrah/Desktop/webdriversfolder/chromedriver-win64.exe")
 
 #driver = webdriver.edge("C:/Users/ibrah/Desktop/webdriversfolder/edgeDriver")
 #the chromedriver object takes the chrome driver location as a parameter
